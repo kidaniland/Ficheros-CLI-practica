@@ -1,0 +1,33 @@
+{
+  "name": "practica-ficheros-cli",
+  "version": "1.0.0",
+  "description": "Proyecto práctico para generar ficheros de manera fácil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kidaniland/Practica-Ficheros-CLI.git"
+  },
+  "keywords": [
+    "rb",
+    "js",
+    "kt",
+    "ts",
+    "java"
+  ],
+  "author": "Maria Villa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kidaniland/Practica-Ficheros-CLI/issues"
+  },
+  "homepage": "https://github.com/kidaniland/Practica-Ficheros-CLI#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0",
+    "inquirer": "^8.0.0",
+    "shelljs": "^0.8.4"
+  },
+  "bin": "./index.js"
+}
